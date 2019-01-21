@@ -9,7 +9,7 @@
         <div class="mx-auto text-center">
           <h1 class="mx-auto my-0 text-uppercase">GIS PADI</h1>
           <h2 class="text-white-50 mx-auto mt-2 mb-5">Sistem Informasi Geografis Persebaran Padi di Area Malang</h2>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Get Started</a>
+          <a href="#footer" class="btn btn-primary js-scroll-trigger">Check</a>
         </div>
       </div>
     </header>
@@ -24,15 +24,8 @@
       <?php include_once "lahanSection.php" ?>
     </section>
 
-    <!-- bibit Section -->
-    <section id="bibit" class="signup-section">
-      <?php include_once "bibitSection.php" ?>
-    </section>
-
-    <!-- Contact Section -->
-    <!-- <section class="contact-section bg-black">
-      <?php include_once "contactSection.php" ?>
-    </section> -->
 
 <!-- Footer -->
+<section id="footer" class="projects-section bg-light">
 <?php include_once "footer.php" ?>
+</section>

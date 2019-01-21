@@ -1,8 +1,9 @@
 <footer class="bg-black small text-center text-white-50">
       <div class="container">
-        Copyright &copy; Your Website 2018
+        Copyright &copy; tnfaid 2019
       </div>
-    </footer>
+      <hr class="d-none d-lg-block mb-0 ml-0">
+</footer>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>

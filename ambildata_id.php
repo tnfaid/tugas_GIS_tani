@@ -1,6 +1,6 @@
 <?php
 include "index.php";
-$Q = mysql_query("SELECT * FROM jasaweb where id_perusahaan=".$id)or die(mysql_error());
+$Q = mysql_query("SELECT * FROM padi where id_lahan=".$id)or die(mysql_error());
 if($Q){
  $posts = array();
       if(mysql_num_rows($Q))
